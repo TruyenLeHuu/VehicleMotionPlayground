@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/letruyen/01_CarAutoParking/01_UI/rosUI/devel -DCMAKE_INSTALL_PREFIX=/home/letruyen/01_CarAutoParking/01_UI/rosUI/install -G Unix Makefiles
