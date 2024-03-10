@@ -1,8 +1,0 @@
-prefix=/home/loi/Vehicle_Motion_Playground/03_VMEnv/02_ros-bridge/install
-
-Name: carla_spawn_objects
-Description: Description of carla_spawn_objects
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: rospy
