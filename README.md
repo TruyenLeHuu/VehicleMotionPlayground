@@ -10,12 +10,12 @@ The project contains all the provided code for the VM framework, API, example co
 - Folder 03_Utils:
     - UI, support code for example
     
-## Initial environments:
+## Prerequisites environments:
 - Ubuntu 20.04 LTS
 - Carla 0.9.13
 - Ros 1 Noetic
 
-## First time:
+## Getting started:
 You must rebuild the ros-bridge source code:
 
         cd 01_VMEnv/01_RosBridge

@@ -15,7 +15,7 @@
 
 # chmod +x low-carla.sh
 # /home/letruyen/VehicleMotionPlayground/02_AutoRun/low-carla.sh
-gnome-terminal -x ./low-carla.sh
+gnome-terminal -x ./medium-carla.sh
 echo "wait for 10 seconds"
 sleep 10s
 gnome-terminal --tab --title="roscore" --command="roscore"

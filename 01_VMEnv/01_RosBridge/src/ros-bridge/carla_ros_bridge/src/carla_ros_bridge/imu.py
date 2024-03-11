@@ -16,7 +16,7 @@ from carla_ros_bridge.sensor import Sensor
 from sensor_msgs.msg import Imu
 
 
-class ImuSensor(Sensor):
+class ImuSensor(Sensor):                                              
 
     """
     Actor implementation details for imu sensor
