@@ -4,8 +4,8 @@ import rospy
 import carla
 from carla_msgs.msg import CarlaWorldInfo
 
-import matplotlib.pyplot as plt
-from matplotlib.patches import Rectangle
+# import matplotlib.pyplot as plt
+# from matplotlib.patches import Rectangle
 from config_param import ParkingScenario
 import math
 import numpy as np
